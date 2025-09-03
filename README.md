@@ -1,4 +1,4 @@
-#🛢️ Análisis de Rentabilidad de Pozos Petroleros
+🛢️ Análisis de Rentabilidad de Pozos Petroleros
 
 Este proyecto tiene como objetivo identificar la región óptima para la inversión en pozos petroleros, evaluando la rentabilidad esperada y el riesgo de pérdida a partir de datos simulados de tres regiones.
 
